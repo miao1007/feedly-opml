@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+    <head>
+        <title>King subscriptions in feedly Cloud</title>
+    </head>
+    <body>
+        <outline text="博客" title="博客">
+            <outline type="rss" text="白髮‧青春" title="白髮‧青春" xmlUrl="https://www.williamtai.moe/feed/" htmlUrl="https://www.williamtai.moe"/>
+            <outline type="rss" text="丁宇 | DING Yu" title="丁宇 | DING Yu" xmlUrl="https://feed43.com/dingyu.xml" htmlUrl="http://dingyu.me/blog/"/>
+            <outline type="rss" text="Edison Xu's Blog" title="Edison Xu's Blog" xmlUrl="http://edisonxu.com/atom.xml" htmlUrl="http://edisonxu.com/"/>
+            <outline type="rss" text="技术改变世界 - 孔令贤的个人博客 | 孔令贤的个人博客" title="技术改变世界 - 孔令贤的个人博客 | 孔令贤的个人博客" xmlUrl="https://lingxiankong.github.io/pages/rss.xml" htmlUrl="https://lingxiankong.github.io"/>
+            <outline type="rss" text="Just lepture" title="Just lepture" xmlUrl="http://feeds.lepture.com/lepture" htmlUrl="https://lepture.com/feed.xml"/>
+            <outline type="rss" text="Miao1007の記事" title="Miao1007の記事" xmlUrl="https://miao1007.github.io/feed.xml" htmlUrl="https://miao1007.github.io/"/>
+            <outline type="rss" text="编程随想的博客" title="编程随想的博客" xmlUrl="http://feeds2.feedburner.com/programthink" htmlUrl="https://program-think.blogspot.com/"/>
+            <outline type="rss" text="当然我在扯淡" title="当然我在扯淡" xmlUrl="https://feed43.com/wangyin.xml" htmlUrl="http://www.yinwang.org/"/>
+            <outline type="rss" text="Terrence的宅宅幻想" title="Terrence的宅宅幻想" xmlUrl="http://terrence.logdown.com/posts.atom" htmlUrl="http://terrence.logdown.com"/>
+        </outline>
+        <outline text="移民" title="移民">
+            <outline type="rss" text="Jack Liu博客-RSS订阅" title="Jack Liu博客-RSS订阅" xmlUrl="http://www.jack-liu.com/rss.php" htmlUrl="http://www.jack-liu.com/"/>
+        </outline>
+        <outline text="前端" title="前端">
+            <outline type="rss" text="Overreacted" title="Overreacted" xmlUrl="https://overreacted.io/rss.xml" htmlUrl="https://overreacted.io"/>
+        </outline>
+        <outline text="Tech" title="Tech">
+            <outline type="rss" text="网易乐得技术团队" title="网易乐得技术团队" xmlUrl="https://feed43.com/techlede.xml" htmlUrl="http://tech.lede.com"/>
+            <outline type="rss" text="美团技术团队" title="美团技术团队" xmlUrl="https://tech.meituan.com/atom.xml" htmlUrl="https://tech.meituan.com"/>
+            <outline type="rss" text="Apache ServiceComb" title="Apache ServiceComb" xmlUrl="https://servicecomb.apache.org/feed.xml" htmlUrl="https://servicecomb.apache.org/"/>
+        </outline>
+    </body>
+</opml>
